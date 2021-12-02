@@ -9,5 +9,10 @@
 <body>
     <h1>Git Remote</h1>
     <p>Paragraf</p>
+    <ul>
+        <li>Satu</li>
+        <li>Dua</li>
+        <li>Tiga</li>
+    </ul>
 </body>
 </html>
